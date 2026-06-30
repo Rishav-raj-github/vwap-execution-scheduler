@@ -1,0 +1,15 @@
+{
+  "name": "vwap-execution-scheduler",
+  "version": "1.0.0",
+  "main": "src/scheduler.ts",
+  "scripts": {
+    "dev": "tsx src/scheduler.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "tsx": "^4.19.0",
+    "@types/node": "^22.5.4"
+  }
+}
